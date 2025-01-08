@@ -14,4 +14,17 @@ num2 = int(sys.argv[2])
 
 python3 program.py 2 3
 
+
+
+Environment Variable 
+
+to store any sesitive information like password, API keys, Token, Certificates, we make use of environment variable 
+cmd : env --> gives inbuilt env variables
+
+import os
+print(os.getenv("password"))
+
+export password="amrita" ----> this is how we set env variable
+
+
  
