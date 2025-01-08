@@ -112,3 +112,6 @@ source myenv/bin/activate
 ```
 
 Once activated, you work in an isolated workspace with its Python interpreter and library dependencies.
+
+
+Just like docker hub there is something for python as well, it is PYPI -- Python package index which has all the modules and packages (boto3, git, jira etc)
