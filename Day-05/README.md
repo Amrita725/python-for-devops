@@ -8,6 +8,7 @@ In Python, **sys** is a built-in module that provides access to some variable an
 **sys.argv**
 
 import sys
+
 num1 = int(sys.argv[1])
 num2 = int(sys.argv[2])
 
