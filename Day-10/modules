@@ -1,0 +1,11 @@
+os module 
+The OS module in Python provides functions for interacting with the operating system.
+
+import os
+os.getcwd() #To get the location of the current working directory
+os.chdir() #To change the current working directory
+os.mkdir() #To make directory
+os.mkdir() #To make directory recursively
+os.listdir() #To get the list of all files and directories in the specified directory
+os.remove() #To remove or delete file path
+os.rmdir() #To remove or delete an empty directory.
